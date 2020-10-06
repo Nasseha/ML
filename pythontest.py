@@ -1,4 +1,7 @@
 #https://towardsdatascience.com/perceptron-and-its-implementation-in-python-f87d6c7aa428
+
+#exemple de l'algorithme de perceptron vu sur internet 
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
