@@ -67,7 +67,9 @@ $ sudo apt-get install python3-virtualenv virtualenv python python3
 $ sudo apt-get install gcc g++ python3-dev
 
 $ virtualenv --python=python3 venv
-$ . venv/bin/activate                   # N'oubliez pas le "." au début.
+
+$ . venv/bin/activate      # N'oubliez pas le "." au début.
+
 $ pip install -r requirements.txt
 
 Vous pouvez donc faire tourner votre code Python en tapant :
