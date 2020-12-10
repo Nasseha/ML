@@ -11,7 +11,7 @@ Vagrant file
 # Big Data sous python 
 Vérifier le vagrant file si les paramètres sont adaptés à la machine 
 
-Utiliser le notebook dans le cas ou ca fonctionne pas le rendu_python.py
+Utiliser le notebook dans le cas où le rendu_python.py ne fonctionne pas
 
 Ne pas oublier de changer les path dans le codage "Rapport_final.ipynb" ! 
 
